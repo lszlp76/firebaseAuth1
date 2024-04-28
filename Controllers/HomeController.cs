@@ -13,7 +13,7 @@ namespace firebaseAuth.Controllers
         {
             auth = new FirebaseAuthProvider(
 
-                            new FirebaseConfig("AIzaSyBdmdXNY9vu4KXmrawb_yeqmTazf_41twk"));
+                            new FirebaseConfig("web api buraya gelecek!"));
         }
         
             
